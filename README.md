@@ -25,3 +25,4 @@ Componentele principale sunt:
 5. **Execuția programului**
 În *Program.cs*, se creează un magazin, se adaugă produse (perisabile și neperisabile), se afișează stocul, se simulează acțiuni ale unui client (adăugare în coș, plată), și se afișează stocul actualizat.
   
+![Imagine]("./imagini/imagine1.png")
