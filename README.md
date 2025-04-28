@@ -1,9 +1,9 @@
-# Gestionarea produselor dintr-un magazin
+# Gestionarea produselor dintr-un magazin🏪✨💸
 
-## Introducere
+## Introducere📁
 Proiectul reprezintă un sistem simplu de gestionare a produselor dintr-un magazin. Acesta include funcționalități pentru adăugarea, ștergerea și afișarea produselor, precum și un mecanism de coș de cumpărături pentru clienți. Produsele sunt de două tipuri: perisabile (cu dată de expirare și temperatură de stocare) și neperisabile (cu observații specifice). Totodată, proiectul ilustrează concepte OOP precum moștenirea, abstractizarea și gestionarea listelor, oferind o bază pentru un sistem de gestionare a magazinelor.
 
-## Detalii Despre Implementare
+## Detalii Despre Implementare💻
 
 Proiectul este implementat în C# și constă din mai multe clase care facilitează interacțiunea dintre un magazin, produse și clienți.
 Componentele principale sunt:
